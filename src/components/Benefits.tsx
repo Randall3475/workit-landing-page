@@ -14,7 +14,7 @@ export default function Benefits() {
                 1
               </div>
               <div className="flex flex-col gap-y-7">
-                <dt className="font-heading leading-9 text-[28px]">
+                <dt className="font-heading leading-9 text-pr-purple text-[28px]">
                   Actionable insights
                 </dt>
                 <dd className="font-body text-davys-gray desktop:text-body leading-7 text-[16px]">
@@ -28,7 +28,7 @@ export default function Benefits() {
                 2
               </div>
               <div className="flex flex-col gap-y-7">
-                <dt className="font-heading leading-9 text-[28px]">
+                <dt className="font-heading text-pr-purple leading-9 text-[28px]">
                   Data-driven decisions
                 </dt>
                 <dd className="font-body text-davys-gray desktop:text-body leading-7 text-[16px]">
@@ -43,7 +43,7 @@ export default function Benefits() {
                 3
               </div>
               <div className="flex flex-col gap-y-7">
-                <dt className="font-heading leading-9 text-[28px]">
+                <dt className="font-heading leading-9 text-pr-purple text-[28px]">
                   Always affordable
                 </dt>
                 <dd className="font-body text-davys-gray desktop:text-body leading-7 text-[16px]">
