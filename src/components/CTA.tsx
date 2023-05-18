@@ -6,7 +6,7 @@ export default function CTA() {
         <div className="container mx-auto relative tablet:block flex flex-col items-center">
           <img
             className="desktop:w-[477px] w-[281px]"
-            src="../public/images/image-founder.webp"
+            src="../../public/images/image-founder.webp"
             alt="Portrait of founder"
           />
           <div className="bg-pr-purple flex flex-col tablet:items-start isolate desktop:ml-auto desktop:mt-[-18rem] desktop:p-16 desktop:gap-y-8 desktop:max-w-[730px] tablet:mt-[-8rem] tablet:gap-y-6 tablet:px-14 tablet:pt-12 tablet:pb-14 tablet:text-start tablet:max-w-[514px] tablet:ml-auto p-8 items-center gap-y-4 text-center mt-[-3rem] w-full">
@@ -23,7 +23,7 @@ export default function CTA() {
           </div>
           <img
             className="absolute desktop:bottom-[-4rem] desktop:right-[4rem] tablet:bottom-[-6rem] tablet:right-[1rem] tablet:flex hidden"
-            src="../public/images/bg-pattern-3.svg"
+            src="../../public/images/bg-pattern-3.svg"
             alt="Pattern"
           />
         </div>
