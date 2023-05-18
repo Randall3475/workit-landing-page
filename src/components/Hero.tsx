@@ -6,7 +6,7 @@ export default function Hero() {
         <div className="container mx-auto relative flex flex-col items-center">
           <img
             className="z-50 desktop:left-[-9rem] desktop:top-[8rem] tablet:left-[-15rem] tablet:top-[4rem] tablet:flex hidden absolute"
-            src="../../public/images/bg-pattern-1.svg"
+            src="./images/bg-pattern-1.svg"
             alt="Pattern"
           />
           <div className="z-50 text-center pb-12 desktop:max-w-[635px] desktop:mt-36 tablet:max-w-[32rem] tablet:mt-32 mt-[130px] max-w-[343px]">
@@ -21,7 +21,7 @@ export default function Hero() {
           </div>
           <img
             className="z-50 desktop:right-[-3rem] desktop:top-[20rem] tablet:right-[-7rem] tablet:top-[14rem] tablet:flex absolute hidden"
-            src="../../public/images/bg-pattern-2.svg"
+            src="./images/bg-pattern-2.svg"
             alt="Pattern"
           />
         </div>
