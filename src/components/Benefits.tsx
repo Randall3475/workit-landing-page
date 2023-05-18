@@ -5,7 +5,7 @@ export default function Benefits() {
         <div className="container mx-auto flex flex-col items-center">
           <img
             className="desktop:w-[767px] tablet:w-[520px] w-[320px] isolate"
-            src="../public/images/image-hero.webp"
+            src="./images/image-hero.webp"
             alt="Tilted image of a smartphone"
           />
           <dl className="desktop:grid desktop:grid-cols-3 desktop:gap-x-[26px] flex flex-col gap-y-10 mt-16">
