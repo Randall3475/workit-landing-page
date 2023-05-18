@@ -13,7 +13,7 @@ export default function CTA() {
             <h2 className="font-heading text-white desktop:text-heading-m text-[32px] heading-[48px]">
               Be the first to test
             </h2>
-            <p className="font-body desktop:text-body text-[16px] leading-[28px] text-white whitespace-break-spaces max-md:max-w-[282px]">
+            <p className="font-body desktop:text-body text-[16px] leading-[28px] text-white whitespace-break-spaces max-tablet:max-w-[282px]">
               Hi, I'm Louis Graham, the founder of the company. Book a demo call
               with me to become a beta tester for our app and kickstart your
               company. Apply for access below and I’ll be in touch to schedule a
